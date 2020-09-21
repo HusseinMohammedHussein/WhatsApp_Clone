@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FCMPushSenderConfiguration">
+    <option name="settings">
+      <PushSettings>
+        <option name="templates">
+          <list>
+            <PushTemplate>
+              <option name="data" value="Hi hihihihihihihihihi" />
+              <option name="message" value="true" />
+              <option name="name" value="New Message" />
+            </PushTemplate>
+          </list>
+        </option>
+      </PushSettings>
+    </option>
+  </component>
+</project>
